@@ -33,7 +33,7 @@ def loop_iterator(number_of_times)
     count += 1 
   end
   
-  for counter in 
+  for counter in 1..number_of_times
   
 end
 
