@@ -27,6 +27,12 @@ def loop_iterator(number_of_times)
     count += 1 
   end
   
+  count = 0 
+  until count == number_of_times
+    puts phrase
+    count += 1 
+  end
+  
   
   
 end
