@@ -35,7 +35,7 @@ def loop_iterator(number_of_times)
   
   for counter in 1..number_of_times do
     puts phrase
-    
+  end
   
 end
 
