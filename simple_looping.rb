@@ -21,7 +21,8 @@ def loop_iterator(number_of_times)
     put phrase
   end
   
-  while 
+  count = 0
+  while count < number_of_times
   
 end
 
